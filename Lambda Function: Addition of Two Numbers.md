@@ -19,7 +19,7 @@ b = int(input())
 func(a,b)
 ```
 ## Output
-<img width="497" height="233" alt="image" src="https://github.com/user-attachments/assets/5de575b8-2c30-456e-8029-b6ad26781d7d" />
+<img width="710" height="373" alt="image" src="https://github.com/user-attachments/assets/723dca4f-98e2-400f-94f8-87007a234c48" />
 
 
 ## Result
