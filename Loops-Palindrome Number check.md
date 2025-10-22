@@ -31,5 +31,8 @@ else:
    print("the number is not a palindrome")
 ```
 ## Output
+<img width="507" height="140" alt="image" src="https://github.com/user-attachments/assets/60e3e2f0-7e26-41a7-99e1-7f9d37f98bfe" />
 
 ## Result
+The Python program that checks whether a given number is a palindrome using loops is executed successfully.
+
