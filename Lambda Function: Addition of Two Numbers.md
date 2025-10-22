@@ -19,5 +19,9 @@ b = int(input())
 func(a,b)
 ```
 ## Output
+<img width="497" height="233" alt="image" src="https://github.com/user-attachments/assets/5de575b8-2c30-456e-8029-b6ad26781d7d" />
+
 
 ## Result
+The Python program that defines a lambda function which takes three arguments a,b and cand returns their sum is executed successfully.
+
